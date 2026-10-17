@@ -1,7 +1,7 @@
 const typingElement = document.getElementById("typing");
 
 const words = [
-  "Frontend Developer",
+  "FullStack Developer",
   "Web Developer",
   "Problem Solver",
   "Tech Enthusiast",
